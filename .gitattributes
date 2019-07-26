@@ -1,0 +1,2 @@
+data/rules.json filter=lfs diff=lfs merge=lfs -text
+data/tree.xml filter=lfs diff=lfs merge=lfs -text
